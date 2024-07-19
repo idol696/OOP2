@@ -1,5 +1,5 @@
 public interface ServiceInterface {
 
-    public void check();
+    void check();
 
 }
